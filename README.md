@@ -2,10 +2,10 @@
 Read manga from your favourites websites on telegram.
 
 ## Current Development Bot
-[@idkpythonbot](https://t.me/idkpythonbot)
+[@otakuu_manga_bot](https://t.me/otakuu_manga_bot)
 
 ## Telegram Channel
-[tg_manga_bot](https://t.me/tg_manga_bot)
+[Otakuu](https://t.me/otakuudotme)
 
 ## Commands
 ```
